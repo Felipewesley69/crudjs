@@ -116,6 +116,7 @@ function editClient(index) {
     fillFileds(client);
     openModal();
 }
+//Este é um comentário teste
 
 const editdelet = (event) => {
     if(event.target.type === 'button'){
