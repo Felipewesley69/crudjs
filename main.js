@@ -76,7 +76,7 @@ const saveClient = () => {
         alert('Preencha devidamente os campos!');
     }
 }
-
+//coment
 const clearTable = () => document.querySelector('#tableClient').innerHTML = '';
 
 const updateTable = () =>{
